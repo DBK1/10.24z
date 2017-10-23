@@ -1,0 +1,6 @@
+{
+  "name": "jgr",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
